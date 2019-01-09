@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="user_profile_name" type="id">name</item>
+    <item name="user_profile_image" type="id">user_profile_image</item>
+    <item name="nav_cart" type="id">nav_cart</item>
+    <item name="nav_orders" type="id">nav_orders</item>
+    <item name="nav_categories" type="id">nav_categories</item>
+    <item name="nav_settings" type="id">nav_settings</item>
+    <item name="nav_logout" type="id">nav_logout</item>
+</resources>
